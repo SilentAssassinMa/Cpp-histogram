@@ -6,6 +6,7 @@
 #include <vector>
 #include <algorithm>
 #include <functional>
+#include <cmath>
 
 template <size_t Dimension>
 class CppCounter
